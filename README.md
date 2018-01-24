@@ -7,6 +7,7 @@ The goal of the project is detecting the moving vehicle on the highway from a we
 * Scikit-learn python package
 ## Project Description
 ### Background Extraction
+As the project is working on a real-time video detection, it's more difficult to extract a background image than image detection. 
 ### Collecting the data
 ### Backgrond Subtraction
 ### Featrue Extraction with HOG
